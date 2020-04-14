@@ -1,4 +1,4 @@
-
+[![Build Status](https://veritouch.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/ravikatrenikona.mslearn-tailspin-spacegame-web?branchName=master)](https://veritouch.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=15&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
